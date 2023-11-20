@@ -1,0 +1,82 @@
+[
+  {
+    "title": "Which country won the FIFA World Cup in 2018?",
+    "answer_1": "Brazil",
+    "answer_2": "Germany",
+    "answer_3": "France",
+    "answer_4": "Spain",
+    "right_answer": "France"
+  },
+  {
+    "title": "Who is the all-time top scorer in the UEFA Champions League?",
+    "answer_1": "Lionel Messi",
+    "answer_2": "Cristiano Ronaldo",
+    "answer_3": "Robert Lewandowski",
+    "answer_4": "Neymar",
+    "right_answer": "Cristiano Ronaldo"
+  },
+  {
+    "title": "In which city is the famous football club FC Barcelona based?",
+    "answer_1": "Madrid",
+    "answer_2": "Milan",
+    "answer_3": "Barcelona",
+    "answer_4": "Manchester",
+    "right_answer": "Barcelona"
+  },
+  {
+    "title": "Who won the Ballon d'Or in 2020?",
+    "answer_1": "Lionel Messi",
+    "answer_2": "Cristiano Ronaldo",
+    "answer_3": "Robert Lewandowski",
+    "answer_4": "Virgil van Dijk",
+    "right_answer": "Lionel Messi"
+  },
+  {
+    "title": "Which country hosted the 2014 FIFA World Cup?",
+    "answer_1": "Brazil",
+    "answer_2": "Germany",
+    "answer_3": "Russia",
+    "answer_4": "South Africa",
+    "right_answer": "Brazil"
+  },
+  {
+    "title": "What is the nickname of Manchester United's home stadium?",
+    "answer_1": "Anfield",
+    "answer_2": "Old Trafford",
+    "answer_3": "Etihad Stadium",
+    "answer_4": "Stamford Bridge",
+    "right_answer": "Old Trafford"
+  },
+  {
+    "title": "Which player holds the record for the most goals scored in a single calendar year?",
+    "answer_1": "Lionel Messi",
+    "answer_2": "Cristiano Ronaldo",
+    "answer_3": "Neymar",
+    "answer_4": "Zlatan Ibrahimović",
+    "right_answer": "Lionel Messi"
+  },
+  {
+    "title": "Which country won the UEFA Euro 2020 tournament?",
+    "answer_1": "France",
+    "answer_2": "Portugal",
+    "answer_3": "Italy",
+    "answer_4": "England",
+    "right_answer": "Italy"
+  },
+  {
+    "title": "Who is known as the 'Egyptian King' in football?",
+    "answer_1": "Mohamed Salah",
+    "answer_2": "Sadio Mané",
+    "answer_3": "Pierre-Emerick Aubameyang",
+    "answer_4": "Riyad Mahrez",
+    "right_answer": "Mohamed Salah"
+  },
+  {
+    "title": "Which team has won the most UEFA Champions League titles?",
+    "answer_1": "Real Madrid",
+    "answer_2": "FC Barcelona",
+    "answer_3": "Bayern Munich",
+    "answer_4": "AC Milan",
+    "right_answer": "Real Madrid"
+  }
+]
